@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [45-Days-Of-React-Projects](https://github.com/100rabhcsmc/45-Days-Of-React-Projects)
 
-- 🌱 I’m currently learning **Reactjs & React-Native & Vuejs**
+- 🌱 I’m currently learning **Reactjs , React-Native & Vuejs**
 
-- 👯 I’m looking to collaborate on **Reactjs & React-Native &  Projects**
+- 👯 I’m looking to collaborate on **Reactjs & React-Native  Projects**
 
 - 🤝 I’m looking for help with **Internship/Job**
 
