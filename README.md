@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/100rabhcsmc/personal_website/raw/master/saurabh_resume.pdf](https://github.com/100rabhcsmc/personal_website/raw/master/saurabh_resume.pdf)
+- 📄 Know about my experiences [https://github.com/100rabhcsmc/personal_website/raw/master/saurabh_resume.pdf](https://github.com/100rabhcsmc/personal_website/blob/master/Saurabh%20chavan%20Resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
