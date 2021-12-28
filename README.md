@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Saurabhchavan](https://hashnode.com/@Saurabhchavan)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & React-Native** 
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
