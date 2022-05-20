@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-- 🔭 I’m currently working on [45-Days-Of-React-Projects](https://github.com/100rabhcsmc/45-Days-Of-React-Projects)
+- 🔭 I’m currently working in Griffyn Robotech Private Limited.
 
-- 🌱 I’m currently learning **Reactjs , React-Native & Vuejs**
+- 🌱 I’m currently Working on Mobile App(React-Native)
 
-- 👯 I’m looking to collaborate on **Reactjs & React-Native  Projects**
+- 👯 I’m looking to collaborate on ** Mobile App(React-Native) Projects**
 
-- 🤝 I’m looking for help with **Internship/Job**
+- 🤝 I’m looking for help with **Full Time Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/100rabhcsmc?tab=repositories](https://github.com/100rabhcsmc?tab=repositories)
 
