@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on ** Mobile App(React-Native) Projects**
 
-- 🤝 I’m looking for help with **Full Time Job**
+- 🤝 I’m looking for **Full Time Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/100rabhcsmc?tab=repositories](https://github.com/100rabhcsmc?tab=repositories)
 
