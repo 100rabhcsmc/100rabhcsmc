@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/100rabhcsmc?tab=repositories](https://github.com/100rabhcsmc?tab=repositories)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Saurabhchavan](https://hashnode.com/@Saurabhchavan)
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **Reactjs & React-Native** 
 
