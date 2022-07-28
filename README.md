@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
+- 🤝 I’m available for freelancing.
+
 - 🌱 I’m currently learning Swift && SwiftUI
 
 - 👯 I’m looking to collaborate on **Mobile App(React-Native) Projects**
