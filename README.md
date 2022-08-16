@@ -18,7 +18,7 @@ Saurabh</a></h1>
 
 - 🌱 I’m currently learning Swift, SwiftUI & <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on <a href="https://phoenix.tech/griffyn/" target="blank">Dev</a>
 
 - 💬 Ask me about **Reactjs & React-Native** 
 
