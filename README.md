@@ -20,7 +20,7 @@ Saurabh</a></h1>
 
 - 📝 I regularly write articles on <a href="https://phoenix.tech/griffyn/" target="blank">Dev</a>
 
-- 💬 Ask me about **Reactjs & React-Native** 
+- 💬 Ask me about **React-Native & SwiftUI** 
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
