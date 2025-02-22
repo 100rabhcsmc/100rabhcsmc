@@ -14,7 +14,7 @@ Saurabh</a></h1>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I'm open to new job opportunities
 
 - 🌱 I’m currently learning Swift,SwiftUI & <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> 
 
